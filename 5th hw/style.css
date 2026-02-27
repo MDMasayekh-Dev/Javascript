@@ -1,0 +1,65 @@
+*{
+    box-sizing: border-box;
+    background-color: rgb(59, 211, 211);
+}
+   body{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+        }
+
+
+        
+.PLAYERONE{
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.buttonOne{
+    width: 70px;
+    height: 30px;
+    font-size: 16px;
+    border-radius: 10px;
+}
+
+.inputOne{
+    width: 200px;
+    height: 30px;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+
+.PLAYERTWO{
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.buttonTwo{
+    width: 70px;
+    height: 30px;
+    font-size: 16px;
+    border-radius: 10px;
+}
+
+
+.inputTwo{
+    width: 200px;
+    height: 30px;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+
+.playerTwo,.inputTwo,.buttonTwo,.errorTwo{
+    display: none;
+}
+
+.playerThree,.inputThree,.buttonThree,.errorThree{
+    display: none;
+}
