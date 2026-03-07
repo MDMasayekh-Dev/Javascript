@@ -22,3 +22,14 @@
     cursor: pointer;
 }
 
+.card{
+    width: 400px;
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    display: flex;
+}
+.container{
+    display: flex;
+}
