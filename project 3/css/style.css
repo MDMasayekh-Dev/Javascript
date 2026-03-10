@@ -1,3 +1,13 @@
+body{
+    background-color: rgb(71, 25, 109);
+}
+.n1{
+color: white;
+}
+.c1{
+color: white;
+}
+
 .container{
     display: flex;
     flex-direction: column;
@@ -15,7 +25,7 @@
 }
 .post-btn{
     padding: 10px 20px;
-    background-color: #007bff;
+    background-color: #0de48a;
     color: white;
     border: none;
     border-radius: 5px;
@@ -48,3 +58,31 @@
     font-size: 20px;
     margin-bottom: 20px;
 }
+.update-btn{
+    padding: 10px 20px;
+    background-color: #0de48a;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    display: none;
+}
+.editbutton{
+    padding: 10px 20px;
+    background-color: #0de48a;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #0de48a;
+}
+
+.deletebutton{
+      padding: 10px 20px;
+    background-color: #ff0000;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
