@@ -1,0 +1,23 @@
+.main{
+    width: 250px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 40px 50px;
+    border-radius: 10px;
+    align-items: center;
+}
+.para1{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    align-items: center;
+    justify-content: center;
+}
+button{
+    border-radius: 10px;
+    padding: 10px 50px;
+    background:  rgb(42, 19, 146);
+    color: white;
+    border: none;
+    font-size: 16px;
+}
