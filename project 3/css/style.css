@@ -49,9 +49,6 @@ color: white;
     display: flex;
 
 }
-.container{
-    display: flex;
-}
 
 .error{
     color: red;
